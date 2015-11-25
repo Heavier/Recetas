@@ -1,0 +1,25 @@
+<resources>
+    <string name="receta">Receta en detalle</string>
+    <string name="nIngrediente">Nuevo ingrediente</string>
+
+    <string name="app_name">Recetas</string>
+    <string name="titulo">Titulo</string>
+    <string name="instrucciones">Instrucciones</string>
+    <string name="elegirIngredientes">Elegir ingredientes</string>
+    <string name="noingredientes">No hay ingredientes</string>
+    <string name="anadir">Añadir</string>
+    <string name="buscarImagen">Buscar imagen</string>
+    <string name="cambiarImagen">Cambiar imagen</string>
+
+    <string name="guardar">Guardar</string>
+    <string name="eliminar">Eliminar</string>
+
+    <string name="nombreIngredientes">Nombre del ingrediente</string>
+    <string name="aceptar">Aceptar</string>
+    <string name="cancelar">Cancelar</string>
+
+    <string name="noInsertar">No se ha podido insertar.</string>
+    <string name="noImagen">Elige una imagen para la receta</string>
+
+
+</resources>
